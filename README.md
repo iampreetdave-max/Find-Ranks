@@ -195,16 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PDF processing powered by [pdfplumber](https://github.com/jsvine/pdfplumber)
 - Data manipulation with [Pandas](https://pandas.pydata.org/)
 
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Rankings View
-![Rankings](screenshots/rankings.png)
-
-### Visualizations
-![Charts](screenshots/charts.png)
 
 ---
 
