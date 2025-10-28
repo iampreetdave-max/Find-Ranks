@@ -7,6 +7,8 @@ A powerful Streamlit web application that extracts student marks from multiple P
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+[LIVE-Website](https://find-ranks-by-preet.streamlit.app)
+
 ## 🎯 Features
 
 ### Core Functionality
