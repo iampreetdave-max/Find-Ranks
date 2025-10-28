@@ -33,7 +33,7 @@ jobs:
     - name: Run keep-alive script
       run: |
         echo "🚀 Starting keep-alive script..."
-        python login_script.py
+        python keep-alive.py
         
     - name: Log completion
       if: always()
